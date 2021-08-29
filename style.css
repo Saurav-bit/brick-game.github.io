@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+canvas{
+    background-color: #eee;
+    display: block;
+    margin:  auto auto;
+    border: 5px solid black;
+    border-radius: 2px;
+   width: 30%;
+   margin-top: 10vw;
+}
